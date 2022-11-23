@@ -1,0 +1,19 @@
+{
+  "name": "typescript-sandbox",
+  "version": "0.0.0-dev",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Clément CHAMPOUILLON",
+    "email": "clement@champouillon.com",
+    "url": "https://cchampou.me"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
